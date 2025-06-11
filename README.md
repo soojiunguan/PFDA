@@ -1,2 +1,2 @@
-# PFDA
-Analysis of housing rental price using R
+# Abstract
+This project analyzes a housing rental dataset using R to uncover patterns influencing rental prices across Indian cities. Through data cleaning, transformation, and statistical analysis, the team investigates the impact of factors like tenant type, number of bedrooms (BHK), property size, furnishing status, and point of contact (agent or owner) on rental rates. Key findings highlight that in cities like Mumbai, agent-listed and furnished properties command significantly higher rents. The study also reveals the importance of statistical testing in validating assumptions, offering insights into the complex dynamics of the rental housing market.
